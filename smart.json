@@ -1,12 +1,9 @@
 {
-  "name": "router",
-  "description": "A Reactive Router for multipage apps",
-  "homepage": "https://github.com/tmeasday/meteor-router",
-  "author": "Tom Coleman <tom@thesnail.org>",
-  "version": "0.5.4.1",
-  "git": "https://github.com/tmeasday/meteor-router.git",
-  "packages": {
-    "page-js-ie-support": {},
-    "HTML5-History-API": {}
-  }
+  "name": "server-router",
+  "description": "A Reactive Router for server side routes",
+  "homepage": "https://github.com/managination/meteor-router",
+  "author": "Tom Coleman <tom@thesnail.org> edited by Micha Roon",
+  "version": "0.5.4.2",
+  "git": "https://github.com/managination/meteor-router.git",
+  "packages": {}
 }
